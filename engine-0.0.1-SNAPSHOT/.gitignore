@@ -1,2 +1,7 @@
 /classes
 /test-classes
+/.classpath
+/.project
+/pom.xml
+/target
+/.settings
